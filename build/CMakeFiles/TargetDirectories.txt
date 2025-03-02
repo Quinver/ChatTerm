@@ -1,0 +1,4 @@
+/home/quinver/git/ChatTerm/build/CMakeFiles/server.dir
+/home/quinver/git/ChatTerm/build/CMakeFiles/client.dir
+/home/quinver/git/ChatTerm/build/CMakeFiles/edit_cache.dir
+/home/quinver/git/ChatTerm/build/CMakeFiles/rebuild_cache.dir
